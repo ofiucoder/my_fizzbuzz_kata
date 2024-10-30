@@ -1,4 +1,4 @@
-# Kata FizzBuzz Java
+# My Fizz Buzz Kata
 
 ## Requiered
 - JDK 21
