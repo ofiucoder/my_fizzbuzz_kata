@@ -5,11 +5,11 @@ public class fizzbuzz {
     {
         for (i = 1; i <= 100; i++) {
             if (i % 3 == 0 && i % 5 == 0)
-                System.out.println("fizzbuzz ");
+                System.out.println("FizzBuzz ");
             else if (i % 3 == 0)
-                System.out.print("fizz ");
+                System.out.print("Fizz ");
             else if (i % 5 == 0)
-                System.out.print("buzz ");
+                System.out.print("Buzz ");
             else
                 System.out.print(i + " ");
         }
